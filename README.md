@@ -30,13 +30,6 @@ I am a detail-oriented and analytical Junior QA Engineer dedicated to ensuring s
 *   Developed comprehensive test documentation (Test Plan and core check-lists) from scratch.
 *   Performed rigorous functional and regression testing after system builds to ensure calculation accuracy.
 *   Logged, prioritized, and tracked defects using Jira, ensuring clear steps to reproduce and system logs.
-
-
-## 📂 Документація проєкту
-Для перегляду детальних тест-кейсів перейдіть за посиланнями:
-* 🚀 [Чек-ліст для BVT (Build Verification Test)](bvt_checklist.md)
-* 📋 [Комплексний чек-ліст сайту (Technical, UX/UI, SEO)](comprehensive_checklist.md)
-
 ---
 ### 📫 Let's Connect!
 
