@@ -1,39 +1,51 @@
-# Hi there! I'm Deynechyn Oleksandr 👋
-### Junior Quality Assurance Engineer
+# Привіт! Я Дейнечин Олександр 👋
 
-I am a detail-oriented and analytical Junior QA Engineer dedicated to ensuring software quality, stability, and great user experience. I have a solid understanding of software testing methodologies, test design techniques, and hands-on experience managing testing artifacts in Jira and TestRail.
-
----
-
-### 🛠️ Tech Stack & Professional Tools
-
-*   **Test Management & Bug Tracking:** Jira, TestRail
-*   **Testing Methodologies:** Functional, Regression, Smoke, Sanity, UI/UX Testing
-*   **Test Design Techniques:** Equivalence Partitioning, Boundary Value Analysis, State Transition
-*   **API & Web Testing:** Postman, Chrome DevTools
-*   **Databases:** SQL (Basic queries, filtering, data verification)
-*   **Version Control:** Git, GitHub
-*   **Languages:** Ukrainian (Native), English (Intermediate / B1-B2)
+Цілеспрямований Junior QA Engineer з досвідом ручного тестування, здобутого під час практичного навчання та розробки своїх навчальних проєктів. Маю впевнене розуміння методологій тестування, технік тест-дизайну та практичний досвід ведення тестової документації в Jira та TestRail.
 
 ---
 
-### 📂 Featured QA Portfolio Projects
+### 🛠️ Технології та професійні інструменти
 
-#### 🌊 [Finding Ocean Activities](https://github.com/oleksandr-dey-qa/finding-ocean-activities)
-*Comprehensive manual testing of a marine activities and fishing booking marketplace.*
-*   Analyzed project requirements and designed structured checklists and smoke/sanity test suites.
-*   Applied **Boundary Value Analysis** and **Equivalence Partitioning** to optimize test coverage for search filters and booking forms.
-*   Created and executed 50+ test cases, documenting results and managing test runs in TestRail.
+*   **Управління тестуванням та баг-трекінг:** Jira, TestRail
+*   **Види тестування:** Functional, Regression, Smoke, Sanity, Exploratory, UI/UX Testing
+*   **Техніки тест-дизайну:** Equivalence Partitioning, Boundary Value Analysis, State Transition, Error Guessing
+*   **API та веб-тестування:** Postman, Chrome DevTools
+*   **Бази даних:** SQL (базові запити, фільтрація, перевірка даних, практична реалізація у MySQL)
+*   **Веб-технології:** HTML, CSS, PHP
+*   **Система контролю версій:** Git, GitHub
+*   **Мови:** Українська (рідна), Англійська (Intermediate / B1-B2)
 
-#### 📈 [Trader Game Simulation](https://github.com/oleksandr-dey-qa/trader-simulator-qa)
-*Functional and regression testing of a financial simulator application.*
-*   Developed comprehensive test documentation (Test Plan and core check-lists) from scratch.
-*   Performed rigorous functional and regression testing after system builds to ensure calculation accuracy.
-*   Logged, prioritized, and tracked defects using Jira, ensuring clear steps to reproduce and system logs.
 ---
-### 📫 Let's Connect!
+
+### 📂 Портфоліо проєктів
+
+#### 1. 📝 [Конспект з тестування ПЗ](https://qa-notes.infinityfree.io/For_notes/index.php)
+*Навчальний проєкт — структурований конспект із 12 розділів за темами software-тестування, реалізований як інтерактивний сайт.*
+*   Розроблено з використанням **HTML, CSS, PHP** та бази даних **MySQL** для динамічного виведення розділів і термінів.
+*   Реалізовано підказки (tooltips) за термінами, автоматичне визначення розділу за файлом та вибірку пов'язаних термінів через SQL JOIN-запити.
+*   Проєкт створено для отримання практичного досвіду роботи з різними інструментами та навичками: HTML/CSS-верстка, Chrome DevTools, PHP, SQL/MySQL, Git/GitHub.
+*   **Активне використання Git для контролю версій:**
+    - окремі гілки (branches) для роботи над новими розділами/правками
+    - послідовні коміти з описом змін
+    - злиття (merge) гілок у основну (main) після завершення роботи
+    - регулярний пуш змін на GitHub
+*   🔗 **Переглянути проєкт можна за посиланням:** https://qa-notes.infinityfree.io/For_notes/index.php
+
+#### 2. 🌊 [Finding Ocean Activities](https://github.com/oleksandr-dey-qa/finding-ocean-activities)
+*Комплексне тестування сайту [Epic Ocean Guide](https://www.epicoceanguide.com/), що охоплює технічний стан, UX/UI, SEO та аналітику.*
+*   Розроблено поглиблений комплексний чек-лист: швидкість завантаження та оптимізація зображень, SSL, адаптивність, кастомна сторінка 404, ієрархія заголовків, sitemap.xml/robots.txt, GA4 та Google Search Console.
+*   Створено BVT (Build Verification Test) чек-лист — smoke-тест-сьют у вигляді матриці тест-кейсів для швидкої перевірки стабільності нової збірки перед подальшим тестуванням.
+*   Тест-кейси охоплюють доступність сервера (HTTP 200 OK), відсутність критичних помилок 4xx/5xx, основну навігацію, форму підписки на розсилку та перевірку консолі браузера на JS-помилки.
+
+#### 3. 📈 [Trader Game Simulation](https://github.com/oleksandr-dey-qa/trader-simulator-qa)
+*Чек-лист самоконтролю для гри «Trader» (Spribe), спрямований на мінімізацію фінансових ризиків та контроль емоційного стану гравця під час сесії.*
+*   Розроблено етап підготовки: визначення банкролу, ліміту втрат (Stop-Loss) та цілі прибутку (Take-Profit), розмір однієї інвестиції відносно балансу.
+*   Описано аналіз та стратегію: тестування в демо-режимі, визначення тренду графіка та комфортного таймфрейму, відмова від мартингейлу.
+*   Додано пункти контролю процесу під час гри (фіксація прибутку, пауза після серії невдач) та психологічної гігієни (контроль «тильту», гра у тверезому стані).
+
+---
+### 📫 Зв'язатися зі мною
 
 *   **LinkedIn:** [linkedin.com/in/oleksandr-deynechyn](https://linkedin.com/in/oleksandr-deynechyn)
 *   **Telegram:** [@oleksandr_dey_qa](https://t.me/oleksandr_dey_qa)
 *   **Email:** [alex.vlad268@gmail.com](mailto:alex.vlad268@gmail.com)
-
