@@ -31,13 +31,13 @@
     - регулярний пуш змін на GitHub
 *   🔗 **Переглянути проєкт можна за посиланням:** https://qa-notes.infinityfree.io/For_notes/index.php
 
-#### 2. 🌊 [Finding Ocean Activities](https://github.com/oleksandr-dey-qa/finding-ocean-activities)
+#### 2. 🌊 [Finding Ocean Activities](https://github.com/oleksandr-dey-qa/oleksandr-dey-qa/tree/main/finding-ocean-activities)
 *Комплексне тестування сайту [Epic Ocean Guide](https://www.epicoceanguide.com/), що охоплює технічний стан, UX/UI, SEO та аналітику.*
 *   Розроблено поглиблений комплексний чек-лист: швидкість завантаження та оптимізація зображень, SSL, адаптивність, кастомна сторінка 404, ієрархія заголовків, sitemap.xml/robots.txt, GA4 та Google Search Console.
 *   Створено BVT (Build Verification Test) чек-лист — smoke-тест-сьют у вигляді матриці тест-кейсів для швидкої перевірки стабільності нової збірки перед подальшим тестуванням.
 *   Тест-кейси охоплюють доступність сервера (HTTP 200 OK), відсутність критичних помилок 4xx/5xx, основну навігацію, форму підписки на розсилку та перевірку консолі браузера на JS-помилки.
 
-#### 3. 📈 [Trader Game Simulation](https://github.com/oleksandr-dey-qa/trader-simulator-qa)
+#### 3. 📈 [Trader Game Simulation](https://github.com/oleksandr-dey-qa/oleksandr-dey-qa/tree/main/trader-simulator-qa)
 *Чек-лист самоконтролю для гри «Trader» (Spribe), спрямований на мінімізацію фінансових ризиків та контроль емоційного стану гравця під час сесії.*
 *   Розроблено етап підготовки: визначення банкролу, ліміту втрат (Stop-Loss) та цілі прибутку (Take-Profit), розмір однієї інвестиції відносно балансу.
 *   Описано аналіз та стратегію: тестування в демо-режимі, визначення тренду графіка та комфортного таймфрейму, відмова від мартингейлу.
