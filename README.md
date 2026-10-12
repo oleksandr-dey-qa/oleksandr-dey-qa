@@ -53,6 +53,6 @@
 ---
 ### 📫 Зв'язатися зі мною
 
-*   **LinkedIn:** [linkedin.com/in/oleksandr-deynechyn](https://linkedin.com/in/oleksandr-deynechyn)
+*   **LinkedIn:** [linkedin.com/in/oleksandr-deynechyn](https://linkedin.com/in/oleksandr-deynechyn-b943152ba)
 *   **Telegram:** [@oleksandr_dey_qa](https://t.me/oleksandr_dey_qa)
 *   **Email:** [alex.vlad268@gmail.com](mailto:alex.vlad268@gmail.com)
